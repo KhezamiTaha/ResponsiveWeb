@@ -2,8 +2,7 @@
 
 This project showcases a fully responsive website built entirely with **jQuery HTML and CSS**, featuring a **custom-built CSS framework** for layout, utility classes, and responsive design — **no external libraries or frameworks used** (e.g., Bootstrap, Tailwind, etc.).
 
-![Responsive_image](./images/Responsive.png)
-
+<img src="./images/Responsive.png" alt="Responsive image" width="700"/>
 ## 📦 Features
 
 - Fully responsive layout for all devices (mobile, tablet, desktop)
