@@ -40,13 +40,13 @@ This project showcases a fully responsive website built entirely with **jQuery H
 
 
 
-/project-root
-├── index.html
-├── css/
-│   └── style.css (includes your custom framework)
-├── images/
-│   └── header.jpg (and other image assets)
-└── README.md
+/project-root  
+├── index.html  
+├── css/  
+└──   └── style.css (includes your custom framework)  
+├── images/  
+└──   └── header.jpg (and other image assets)  
+└── README.md  
 
 
 
